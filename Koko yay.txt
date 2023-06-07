@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Thel thel ko ma nyo nyin br nk...
+=======
+thel thel ko ma nyo nyin br nk
+ma nyo nyin pr woo chit pr dl nor
+>>>>>>> 88ce02191982de8d15b6a2268fba9b5eb744e4d7
